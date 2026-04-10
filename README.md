@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a results-driven **Mobile Application Developer** with over **3.5 years of expertise** in the Android ecosystem and **2+ years** specializing in Flutter[cite: 5, 65]. I bridge the gap between complex backend logic and intuitive mobile experiences, with a heavy focus on **Clean Architecture** and **AI-driven functionality**.
+I am a results-driven **Mobile Application Developer** with over **3.5 years of expertise** in the Android ecosystem and **2+ years** specializing in Flutter. I bridge the gap between complex backend logic and intuitive mobile experiences, with a heavy focus on **Clean Architecture** and **AI-driven functionality**.
 
 - 🤖 **AI Specialty:** Expertly integrating OpenAI GPT models and TTS (Alloy voice) for next-gen features.
 - 🏛️ **Architecture:** Deeply proficient in BLoC/Cubit, Provider, MVVM, and Modular Design.
